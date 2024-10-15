@@ -6,7 +6,7 @@ const sora = Sora({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Gabriel Maurício",
-  description: "Profissional especializado em desenvolvimento web, com forte ênfase em front-end. ",
+  description: "Profissional especializado em desenvolvimento web, com forte ênfase em front-end.",
 };
 
 export default function RootLayout({

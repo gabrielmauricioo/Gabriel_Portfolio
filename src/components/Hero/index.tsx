@@ -61,6 +61,7 @@ export function Hero() {
             height={479}  
             alt="Foto do Gabriel Mauricio"
             className="mt-8 lg:mt-0"
+            loading="lazy"
           />
         </div>
       </GridContainer>

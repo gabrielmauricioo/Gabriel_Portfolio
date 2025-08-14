@@ -31,8 +31,8 @@ export function Hero() {
               Olá, meu nome é Gabriel Maurício
             </h1>
             <h3 className="text-slate-700 text-center text-lg sm:text-xl lg:text-2xl lg:text-left xl:text-left font-light w-full max-w-full lg:max-w-[730px]">
-              Analista de Dados com experiência prática em coleta, tratamento e interpretação de informações para apoiar decisões estratégicas. 
-              Tenho sólida base em ferramentas de análise e visualização de dados, unindo pensamento analítico e clareza na comunicação para transformar números em insights acionáveis.
+              Analista de Dados com experiência prática em ETL para apoiar decisões estratégicas. Tenho sólida base em ferramentas de análise e visualização de dados, 
+              unindo pensamento analítico e clareza na comunicação para transformar números em insights acionáveis.
             </h3>
             <div className="flex flex-col sm:flex-row mt-8 gap-4 justify-center xl:justify-start">
               <Button

@@ -11,7 +11,7 @@ import Link from "next/link";
 export function Hero() {
 
   const ctaWhatsapp = () => {
-     const whatsappNumber = "5521987466501";
+     const whatsappNumber = "5521983357561";
      const message = "Olá, gostaria de mais informações.";
      const url = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${encodeURIComponent(message)}`;
 
@@ -31,7 +31,8 @@ export function Hero() {
               Olá, meu nome é Gabriel Maurício
             </h1>
             <h3 className="text-slate-700 text-center text-lg sm:text-xl lg:text-2xl lg:text-left xl:text-left font-light w-full max-w-full lg:max-w-[730px]">
-              Profissional especializado em desenvolvimento web, com forte ênfase em front-end. Altamente focado em criar interfaces de usuário intuitivas, eficientes e responsivas.
+              Analista de Dados com experiência prática em coleta, tratamento e interpretação de informações para apoiar decisões estratégicas. 
+              Tenho sólida base em ferramentas de análise e visualização de dados, unindo pensamento analítico e clareza na comunicação para transformar números em insights acionáveis.
             </h3>
             <div className="flex flex-col sm:flex-row mt-8 gap-4 justify-center xl:justify-start">
               <Button
